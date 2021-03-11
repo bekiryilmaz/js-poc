@@ -1,2 +1,2 @@
 # js-ooptutorial
-A repository for teaching oop implementation in vanilla javascript
+A repository for examples in vanilla javascript
